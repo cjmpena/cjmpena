@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjmpena&label=Profile%20views&color=0e75b6&style=flat" alt="cjmpena" /> </p>
 
-- 🔭 I’m currently working on **Django Project**
+- 🔭 I’m currently working on **Rails Project**
 
-- 🌱 I’m currently learning **Django, React, Node.js**
+- 🌱 I’m currently learning **Ruby, Rails**
 
 - 📫 How to reach me **manansal.carla@gmail.com**
 
