@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carla!</h1>
-<h3 align="center">A passionate student-intern developer from Canada</h3>
+<h3 align="center">I am a IT Analyst and an aspiring developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjmpena&label=Profile%20views&color=0e75b6&style=flat" alt="cjmpena" /> </p>
 
-- 🔭 I’m currently working on **Rails Project**
-
-- 🌱 I’m currently learning **Ruby, Rails**
+- 🔭 I’m currently working on a Website using **HTML, JavaScript, React**
 
 - 📫 How to reach me **manansal.carla@gmail.com**
 
